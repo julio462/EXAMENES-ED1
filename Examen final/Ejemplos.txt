@@ -1,0 +1,3 @@
+Ejemplos:
+Secuencia de entrada: [10, 20, 30]
+Secuencia de entrada: [50, 30, 70, 20, 40, 60, 80, 35]
